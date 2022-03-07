@@ -8,6 +8,4 @@
 *login: admin
 *senha: 123
 
-![alt text](https://imgur.com/LwoUPzj)
 
-![alt text](https://imgur.com/72BPtXo)
