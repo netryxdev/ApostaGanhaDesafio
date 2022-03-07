@@ -1,0 +1,43 @@
+
+body {
+    background-color: black;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(34, 34, 34);
+    padding: 20px;
+    border-radius: 10px;
+    color: #FC6305;
+    }
+    
+    .container button {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 10px 15px;
+    width: 50%;
+    border-radius: 5px;
+    border: 0;
+    background-color: #FC6305;
+    color: #000;
+    }
+
+    h1{
+        margin-top: 0; /*Para diminuir o espaço que ficou do titulo para o background color*/
+        color: #FC6305;
+    
+    }
+    
+    input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    }
